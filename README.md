@@ -3,4 +3,4 @@
 
 Me llamo Marcos y soy estudiante de la carrera de Informática en la UNAHUR
 
-![foto.gif][img1]
+![foto](foto.gif)
